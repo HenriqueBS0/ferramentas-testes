@@ -1,0 +1,17 @@
+{
+    "name": "henriquebs0/engenharia-softaware-ii",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HenriqueBS0\\EngenhariaSoftawareII\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HenriqueBS0",
+            "email": "henrique.10agr@gmail.com"
+        }
+    ],
+    "require": {}
+}
